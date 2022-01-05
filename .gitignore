@@ -15,3 +15,11 @@ tests/results
 
 # Bytecode
 *.pyc
+
+*.html
+.vscode/
+instancesTW/
+tsplib_data/
+output/
+*.zip
+
